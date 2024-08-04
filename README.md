@@ -4,11 +4,11 @@
 
 ![image](https://github.com/user-attachments/assets/71679f1f-55a4-4f2c-b09e-db614c94e859)
 
-# Intoduction
+# Introduction
 
 In the rapidly evolving landscape of technology and software development, understanding the perspectives, preferences, and challenges faced by developers is crucial for guiding industry trends, educational initiatives, and product development. A comprehensive survey was conducted by stackoverflow to gather data from developers worldwide and capture insights about their work environments, programming languages, tools, methodologies, and career aspirations.
 
-# OBJECTIVE
+# Objective
 
 The task at hand is to perform a detailed analysis of the collected survey data to extract meaningful and actionable insights and to practice my python skills learned on a structured data set including loading, inspecting, wrangling, exploring and drawing conclusion from data and have a deep understanding of the stackoverflow developer community .The notebook have the observation with each steps in order to explain throrougly how i approach the data set and based on observation some question are also answered.
 
